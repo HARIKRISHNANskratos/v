@@ -1,0 +1,21 @@
+
+body{
+    
+    background-repeat: no-repeat;
+     background-position: right top;
+ background-attachment: fixed;
+    text-align: center;
+    background-image:url('../bacgrount image.jpg');
+    background-size:cover;
+}
+#heading{
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 250px;
+    padding: 50px;
+}
+.naruto{
+    margin: 0px 100px 0px 100px;
+}
